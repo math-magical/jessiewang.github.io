@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
 
-You can use the [editor on GitHub](https://github.com/jessiewang028/jessiewang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello! I'm Jessie Wang. I'm a student from Texas. I mainly do competition math, but coding is fun as well. 
 
 ### Markdown
 
