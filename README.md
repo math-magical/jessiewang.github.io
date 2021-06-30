@@ -1,2 +1,2 @@
-# jessiewang.github.io
+# Jessie Wang
 Hello! Welcome to my site. 
